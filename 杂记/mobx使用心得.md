@@ -1,4 +1,4 @@
-store 使用的最佳实践
+## store 使用的最佳实践
 结合 createContext 和 useContext
 ```js
 class Store = {
